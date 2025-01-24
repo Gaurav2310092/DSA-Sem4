@@ -1,3 +1,6 @@
+//linear prbing with chaining without replacement
+
+
 #include <iostream>
 #include <vector>
 using namespace std;
